@@ -1,8 +1,4 @@
-#  Mathworks Minidrone Competition
-
-Simulink model of Parrot Mambo for Mathworks Minidrone Competition 2022.
-
-Line following algorithm based on [Bresenham's line algorithm](https://en.wikipedia.org/wiki/Bresenham%27s_line_algorithm) and circle detection with brute force technique.
+#  Line following algorithm based on [Bresenham's line algorithm](https://en.wikipedia.org/wiki/Bresenham%27s_line_algorithm) and circle detection with brute force technique.
 
 
 <br><br>
